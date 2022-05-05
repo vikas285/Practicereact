@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    height: 300px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.text {
+    font-size: 40px;
+    color: wheat;
+    height: 53px;
+    width: 76px;
+    display : flex;
+    justify-content: center;
+}
+
+.Increment {
+
+    color: rgb(28, 23, 16);
+    height: 42px;
+    width: 215px;
+}
